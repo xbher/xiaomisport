@@ -14,4 +14,5 @@
 
 Ⅲ.再次在Telegram上搜索[getuserIDbot](https://t.me/getuserIDbot)机器人，获取UserID。<br>
 
-![TG_PUSH3](https://gitee.com/lxk0301/jd_docker/raw/master/icon/TG_PUSH3.png)
+![TG_PUSH3](https://gitee.com/lxk0301/jd_docker/raw/master/icon/TG_PUSH3.png) 
+
